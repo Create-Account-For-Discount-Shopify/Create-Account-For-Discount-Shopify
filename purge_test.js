@@ -1,1 +1,2 @@
-let purge = false;
+let purge = true;
+// Updated
